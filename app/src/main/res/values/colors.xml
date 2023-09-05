@@ -2,4 +2,36 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+
+    // Austria
+    <color name="red_Austria">#C8102E</color>
+
+    //Poland
+    <color name="red_Poland">#FF0000</color>
+
+    //Italy
+    <color name="green_Italy">#008000</color>
+    <color name="red_Italy">#FF0000</color>
+
+    //Colombia
+    <color name="yellow_Colombia">#FFD100</color>
+    <color name="red_Colombia">#CE1126</color>
+    <color name="blue_Colombia">#0033A0</color>
+
+    //Madagascar
+    <color name="red_Madagascar">#D62828</color>
+    <color name="green_Madagascar">#3AA63F</color>
+
+    //Thailand
+    <color name="red_Thailand">#E60012</color>
+    <color name="blue_Thailand">#001489</color>
+
+    //Denmark
+    <color name="red_Denmark">#C60C30</color>
+
+    //Switzerland
+    <color name="red_Switzerland">#FF0000</color>
+
+
 </resources>
