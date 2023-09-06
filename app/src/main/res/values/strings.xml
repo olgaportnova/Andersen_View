@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Andersen_View</string>
+    <string name="edit_text_hint">Вставьте ссылку на картинку</string>
+    <string name="bt_show_image">Загрузить картинку</string>
+    <string name="edit_text_empty">Вставьте ссылку на картинку</string>
+    <string name="error_loading">Не удалось загрузить картинку..</string>
 </resources>
